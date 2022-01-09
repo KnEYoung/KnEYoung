@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KnEYoung
+- 👋 Hi, I’m KnEYoung
 - 👀 
 
 <!---
